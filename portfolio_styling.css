@@ -1,0 +1,17 @@
+:root{
+	--bg-black-900:#f2f2fc;
+}
+body{
+	margin: 0;
+	padding: 0;
+	line-height: 1.5;
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+}
+*{
+	margin: 0;
+	padding: 0;
+	outline: none;
+	text-decoration: none;
+	box-sizing: border-box;
+}
